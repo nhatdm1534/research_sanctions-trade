@@ -26,19 +26,19 @@ A quantitative analysis of the role of sanctions in moderating the relationship 
   - `jwdid` (latest version)
 
 Please ensure that the latest versions of `jwdid.ado` and `jwdid_estat.ado` are installed by overwriting existing versions:
-https://github.com/friosavila/stpackages/tree/main/jwdid
+https://github.com/friosavila/stpackages/tree/main/jwdid.
 
 ---
 ## Data
 The datasets are not included in this repository.
 
 ### Data sources
-- Global Sacntions Database.
-- Research and Expertise on the World Economy.
+- Global Sacntions Database (GSDB).
+- Research and Expertise on the World Economy (CEPII).
 
 ### Access
 The data can be downloaded from:
-https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sharing
+https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sharing.
 
 ---
 ## How to Run the Replication
