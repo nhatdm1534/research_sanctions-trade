@@ -2,20 +2,21 @@
 
 This repository contains the code used to replicate the quantitative analysis of an international economics research project on economic sanctions and international trade.
 
+---
 ## Overview
 
-The project consists of two main empirical chapters:
+The project consists of two main empirical sections:
 
 ### Sections 1: Sanctions and Trade Flows
 A quasi-experimental study on the causal effects of sanctions on trade flows, implemented within a staggered Difference-in-Differences framework. The analysis employs:
-- Two-Way Fixed Effects 
-- Extended Two-Way Fixed Effects
-- Callaway & Sant'Anna (2021) estimator
+- Two-Way Fixed Effects. 
+- Extended Two-Way Fixed Effects.
+- Callaway & Sant'Anna (2021) estimator.
 
 ### Section 2: Sanctions and the Business Cycle Comovement–Trade Intensity Nexus
 A quantitative analysis of the role of sanctions in moderating the relationship between trade intensity and business cycle comovement. The empirical strategy includes:
-- Method of Moments Quantile Regression
-- Complete Subset Averaging Two-Stage Least Squares 
+- Method of Moments Quantile Regression.
+- Complete Subset Averaging Two-Stage Least Squares. 
 
 ---
 ## Requirements
@@ -26,6 +27,18 @@ A quantitative analysis of the role of sanctions in moderating the relationship 
 
 Please ensure that the latest versions of `jwdid.ado` and `jwdid_estat.ado` are installed by overwriting existing versions:
 https://github.com/friosavila/stpackages/tree/main/jwdid
+
+---
+## Data
+The datasets are not included in this repository.
+
+### Data sources
+- Global Sacntions Database.
+- Research and Expertise on the World Economy.
+
+### Access
+The data can be downloaded from:
+https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sharing
 
 ---
 ## How to Run the Replication
