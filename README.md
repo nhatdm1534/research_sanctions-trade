@@ -21,9 +21,9 @@ A quantitative analysis of the role of sanctions in moderating the relationship 
 ---
 ## Requirements
 
-- Stata 17
+- Stata 17 or above.
 - Required user-written packages:
-  - `jwdid` (latest version)
+  - `jwdid` (latest version).
 
 Please ensure that the latest versions of `jwdid.ado` and `jwdid_estat.ado` are installed by overwriting existing versions:
 https://github.com/friosavila/stpackages/tree/main/jwdid.
