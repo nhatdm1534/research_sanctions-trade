@@ -67,9 +67,11 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 ## Notes
 
 - All scripts are written for Stata 17.
-- The replication results may vary slightly depending on system settings and package versions.
+- The replication results may vary depending on system settings and package versions.
 
 ## Contact
 
 For questions or replication issues, please contact:  
-nhatdang0164@gmail.com
+- nhatdang0164@gmail.com
+- minhquy0710@gmail.com
+- hieunt23408a@st.uel.edu.vn
