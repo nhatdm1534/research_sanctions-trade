@@ -7,13 +7,13 @@ This repository contains the code used to replicate the quantitative analysis of
 
 The project consists of two main empirical sections:
 
-### Sections 1: Sanctions and Trade Flows
+### Sections 1: TRADE UNDER PRESSURE: A QUASI-EXPERIMENTAL DESIGN ON SANCTIONS
 A quasi-experimental study on the causal effects of sanctions on trade flows, implemented within a staggered Difference-in-Differences framework. The analysis employs:
 - Two-Way Fixed Effects. 
 - Extended Two-Way Fixed Effects.
 - Callaway & Sant'Anna (2021) estimator.
 
-### Section 2: Sanctions and the Business Cycle Comovement–Trade Intensity Nexus
+### Section 2: WHEN SANCTIONS STRIKE: DO THEY DISRUPT TRADE–COMOVEMENT?
 A quantitative analysis of the role of sanctions in moderating the relationship between trade intensity and business cycle comovement. The empirical strategy includes:
 - Method of Moments Quantile Regression.
 - Complete Subset Averaging Two-Stage Least Squares. 
