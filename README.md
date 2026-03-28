@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 - Open each code file and modify the global paths to match your local directory structure.
 
 2. Run the data processing pipeline:
-- Open Open `01_data_processing.do`.
+- Open `01_data_processing.do`.
 - This script will:
   - Process raw GSDB and CEPII data.
   - Merge datasets.
@@ -66,7 +66,6 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 
 ## Notes
 
-- All scripts are written for Stata 17.
 - The replication results may vary depending on system settings and package versions.
 
 ## Contact
