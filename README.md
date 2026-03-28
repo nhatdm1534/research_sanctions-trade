@@ -1,4 +1,4 @@
-# Scientific Research: The Trade Consequences of Sanctions.
+# Scientific Research: The Trade Consequences of Sanctions.   
 
 This repository contains the code used to replicate the quantitative analysis of an international economics research project on economic sanctions and international trade.
 
