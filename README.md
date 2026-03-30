@@ -68,10 +68,10 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 
 - The replication results may vary depending on system settings and package versions.
 
-## Authors
+## Contributors
 
-- M.A. Trinh Minh Quy, Primary Supervisor.
-- Dang Minh Nhat, Co-supervisor.
+- M.A. Trinh Minh Quy.
+- Dang Minh Nhat.
 - Nguyen Trung Hieu.
 
 ## Affiliation
