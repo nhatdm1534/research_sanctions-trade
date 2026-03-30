@@ -1,6 +1,6 @@
-* =========== *
-* 0/ Khai báo *
-* =========== *
+* ======================== *
+* 0/ Set working directory *
+* ======================== *
 global path "yourpath"
 cd "$path"
 
@@ -18,20 +18,20 @@ gen TI1xTrade     = lnTI_1 * trade_sanctions
 gen TI1xFinancial = lnTI_1 * financial_sanctions
 gen TI2xSanc      = lnTI_2 * sanctions_any
 
-label variable lnTI_1					"Trade intensity (sum-based)"
-label variable lnTI_2					"Trade intensity (max-based)"
-label variable TI1xSanc					"Trade intensity (sum-based) x Sanctions (any)"
-label variable TI1xTrade				"Trade intensity (sum-based) x Trade sanctions"
-label variable TI1xFinancial			"Trade intensity (sum-based) x Financial sanctions"
-label variable TI2xSanc					"Trade intensity (max-based) x Sanctions (any)"
+label variable lnTI_1					"Trade intensity (max-based)"
+label variable lnTI_2					"Trade intensity (sum-based)"
+label variable TI1xSanc					"Trade intensity (max-based) x Sanctions (any)"
+label variable TI1xTrade				"Trade intensity (max-based) x Trade sanctions"
+label variable TI1xFinancial			"Trade intensity (max-based) x Financial sanctions"
+label variable TI2xSanc					"Trade intensity (sum-based) x Sanctions (any)"
 label variable comov					"Business cycle comovement"
 label variable sanctions_any			"Sanctions (any)"
 label variable financial_sanctions		"Financial sanctions"
 label variable trade_sanctions			"Trade sanctions"
 
-* =========== *
-* 1/ Pre-test *
-* =========== *
+* =================== *
+* 1/ Preliminary test *
+* =================== *
 * Descriptive statistics *
 sum comov lnTI_1 lnTI_2 sanctions_any TI1xSanc
 
@@ -87,17 +87,3 @@ csa2sls comov (lnTI_1 = wto_o wto_d eu_o eu_d rta lndist contig comlang_off) san
 csa2sls comov (lnTI_1 = wto_o wto_d eu_o eu_d rta lndist contig comlang_off) trade_sanctions TI1xTrade, large
 
 csa2sls comov (lnTI_1 = wto_o wto_d eu_o eu_d rta lndist contig comlang_off) financial_sanctions TI1xFinancial, large
-
-
-
-
-
-
-
-
-
-
-
-
-
-

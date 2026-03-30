@@ -239,21 +239,3 @@ foreach var in sanctions_any trade_sanctions nontrade_sanctions_any {
 drop od
 
 save "data_sdid.dta", replace
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

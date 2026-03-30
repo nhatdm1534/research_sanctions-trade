@@ -320,32 +320,3 @@ xtset od year
 		* ------------------------------ *
 		jwdid tradeflows, i(od) t(year) g(gvar_nontrade_sanctions_any)  never method(ppmlhdfe) accel(cg)
 		estat simple, predict(xb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
