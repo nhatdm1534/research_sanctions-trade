@@ -73,6 +73,10 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 - M.A. Trinh Minh Quy.
 - Dang Minh Nhat.
 - Nguyen Trung Hieu.
+- Nguyen Minh Khang.
+- Ho Trong An.
+- Hoang Khac Hung.
+- Pham Thieu Ly Na.
 
 ## Affiliation
 University of Economics and Law, Vietnam National University, Ho Chi Minh City.
