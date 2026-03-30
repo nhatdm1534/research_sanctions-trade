@@ -68,6 +68,15 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 
 - The replication results may vary depending on system settings and package versions.
 
+## Authors
+
+- M.A. Trinh Minh Quy, Primary Supervisor.
+- Dang Minh Nhat, Co-supervisor.
+- Nguyen Trung Hieu.
+
+## Affiliation
+University of Economics and Law, Vietnam National University, Ho Chi Minh City.
+
 ## Contact
 
 For questions or replication issues, please contact:  
