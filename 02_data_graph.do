@@ -338,4 +338,3 @@ program define jwdid_event_cohort
         graph export "`saving'", as(png) width(2400) replace
     restore
 end
-
