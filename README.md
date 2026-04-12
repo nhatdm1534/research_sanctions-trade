@@ -84,6 +84,6 @@ University of Economics and Law, Vietnam National University, Ho Chi Minh City.
 ## Contact
 
 For questions or replication issues, please contact:  
-- nhatdang0164@gmail.com
-- minhquy0710@gmail.com
-- hieunt23408a@st.uel.edu.vn
+- nhatdang0164@gmail.com.
+- minhquy0710@gmail.com.
+- hieunt23408a@st.uel.edu.vn.
