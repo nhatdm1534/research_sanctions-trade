@@ -33,7 +33,7 @@ https://github.com/friosavila/stpackages/tree/main/jwdid.
 The datasets are not included in this repository.
 
 ### Data sources
-- Global Sacntions Database (GSDB).
+- Global Sanctions Database (GSDB).
 - Research and Expertise on the World Economy (CEPII).
 
 ### Access
