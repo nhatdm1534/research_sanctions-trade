@@ -39,6 +39,7 @@ The datasets are not included in this repository.
 ### Access
 The data can be downloaded from:
 https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sharing.
+(Data access requires a request via email to the contact below)
 
 ---
 ## How to Run the Replication
